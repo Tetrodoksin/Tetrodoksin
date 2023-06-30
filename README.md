@@ -1,4 +1,4 @@
-### Hi there 👋
+looking for help with software
 
 <!--
 **Tetrodoksin/Tetrodoksin** is a  tetrodoks repository because its `README.md` (this file) appears on your GitHub profile.
